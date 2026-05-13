@@ -4,19 +4,34 @@
 
 This is part of a collaborative research project on accretion discs in binary star systems. It tests several methods to simulate the collisions of gases as point particles in order to acurately simulate accretion disc temperature variations.
 
-The project was coded using the Python language and the VPython library. [You can find the repository here.](https://github.com/RebeccaFritz/Accretion-Disc-Heat-Map)
+The project was coded using the Python language and the VPython library. 
+
+[You can find the repository here.](https://github.com/RebeccaFritz/Accretion-Disc-Heat-Map)
 
 ### Bit Battle
 
 This is a two-player server-based web game inspired by pong and space invaders. The players must convert between base ten and binary numbers in order to shoot a projectile and score a point against their opponent. 
 
-In the process of creating this project, our team used GoLang, JavaScript, and SQLite. [You can find the repository here](https://github.com/RebeccaFritz/SWE-Project-2025)
+In the process of creating this project, our team used GoLang, JavaScript, and SQLite. 
+
+[You can find the repository here](https://github.com/RebeccaFritz/SWE-Project-2025)
 
 ### Castle Crawl
 
 This game is a top down dungeon crawler in which the player must find keys and match them to the correct doors in order to escape. 
 
-It was coded entirely in Racket. [You can find the repository here.](https://github.com/RebeccaFritz/Castle-Crawl)
+It was coded entirely in Racket. 
+
+[You can find the repository here.](https://github.com/RebeccaFritz/Castle-Crawl)
+
+### Mystery Author Text Generator
+
+Built a dual transformer language model trained on 2.4M words of classic mystery fiction (Agatha Christie and Sir Arthur
+Conan Doyle) that generates text in each author’s distinct style. Implemented full ML pipeline including data preprocessing,
+hyperparameter tuning with grid search, and train/validation/test evaluation. Built in PyTorch from scratch without
+pretrained models.
+
+[You can find the repository here.](https://github.com/RebeccaFritz/Mystery-Author-Text-Generator)
 
 
 
