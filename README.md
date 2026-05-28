@@ -1,5 +1,14 @@
 ## Projects
 
+### Mystery Author Text Generator
+
+Built a dual transformer language model trained on 2.4M words of classic mystery fiction (Agatha Christie and Sir Arthur
+Conan Doyle) that generates text in each author’s distinct style. Implemented full ML pipeline including data preprocessing,
+hyperparameter tuning with grid search, and train/validation/test evaluation. Built in PyTorch from scratch without
+pretrained models.
+
+[You can find the repository here.](https://github.com/RebeccaFritz/Mystery-Author-Text-Generator)
+
 ### Accretion Disc Heat-Map Simulation
 
 This is part of a collaborative research project on accretion discs in binary star systems. It tests several methods to simulate the collisions of gases as point particles in order to acurately simulate accretion disc temperature variations.
@@ -16,6 +25,12 @@ In the process of creating this project, our team used GoLang, JavaScript, and S
 
 [You can find the repository here](https://github.com/RebeccaFritz/SWE-Project-2025)
 
+### Connect Five
+
+Java algorithm for the board game Connect Five — priority-based move selection for both short (first to five) and long (most sets of five) game modes. 🏆 1st place, UD Discrete Structures tournament.
+
+[You can find the repository here.](https://github.com/RebeccaFritz/Connect-Five).
+
 ### Castle Crawl
 
 This game is a top down dungeon crawler in which the player must find keys and match them to the correct doors in order to escape. 
@@ -23,15 +38,6 @@ This game is a top down dungeon crawler in which the player must find keys and m
 It was coded entirely in Racket. 
 
 [You can find the repository here.](https://github.com/RebeccaFritz/Castle-Crawl)
-
-### Mystery Author Text Generator
-
-Built a dual transformer language model trained on 2.4M words of classic mystery fiction (Agatha Christie and Sir Arthur
-Conan Doyle) that generates text in each author’s distinct style. Implemented full ML pipeline including data preprocessing,
-hyperparameter tuning with grid search, and train/validation/test evaluation. Built in PyTorch from scratch without
-pretrained models.
-
-[You can find the repository here.](https://github.com/RebeccaFritz/Mystery-Author-Text-Generator)
 
 
 
