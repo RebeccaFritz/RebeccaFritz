@@ -1,57 +1,44 @@
 ## Projects
 
 ### Mystery Author Text Generator
+`Python` `PyTorch` `NLP` `Transformers`
 
-Built a dual transformer language model trained on 2.4M words of classic mystery fiction (Agatha Christie and Sir Arthur
-Conan Doyle) that generates text in each author’s distinct style. Implemented full ML pipeline including data preprocessing,
-hyperparameter tuning with grid search, and train/validation/test evaluation. Built in PyTorch from scratch without
-pretrained models.
+Dual transformer language model trained on 2.4M words of classic mystery fiction (Christie & Doyle) that generates text in each author's distinct style. Built from scratch in PyTorch — full ML pipeline including data preprocessing, hyperparameter tuning with grid search, and train/validation/test evaluation.
 
-[You can find the repository here.](https://github.com/RebeccaFritz/Mystery-Author-Text-Generator)
+[View repository →](https://github.com/RebeccaFritz/Mystery-Author-Text-Generator)
 
-### Accretion Disc Heat-Map Simulation
+---
 
-This is part of a collaborative research project on accretion discs in binary star systems. It tests several methods to simulate the collisions of gases as point particles in order to acurately simulate accretion disc temperature variations.
+### Bulk Gmail Filter Manager
+`JavaScript` `Google Apps Script` `Gmail API` `Automation`
 
-The project was coded using the Python language and the VPython library. 
+Google Apps Script tool for bulk-creating and managing Gmail filters from a simple config array. Auto-creates labels (including nested ones), skips duplicate filters, replaces outdated ones, and backfills labels onto existing emails.
 
-[You can find the repository here.](https://github.com/RebeccaFritz/Accretion-Disc-Heat-Map)
+[View repository →](https://github.com/RebeccaFritz/Bulk-Gmail-Filters)
+
+---
 
 ### Bit Battle
+`Go` `JavaScript` `SQLite` `Agile`
 
-A competitive 2-player browser game combining Pong mechanics with a hex-to-binary conversion challenge.
+Competitive 2-player browser game combining Pong mechanics with a hex-to-binary conversion challenge. Built with a team following Agile methodologies.
 
-In the process of creating this project, our team followed Agile methodologies and used GoLang, JavaScript, and SQLite. 
+[View repository →](https://github.com/RebeccaFritz/bit-battle)
 
-[You can find the repository here](https://github.com/RebeccaFritz/bit-battle)
+---
 
-### Connect Five
+### Accretion Disc Heat-Map Simulation
+`Python` `VPython` `Research`
 
-Java algorithm for the board game Connect Five — priority-based move selection for both short (first to five) and long (most sets of five) game modes. 🏆 1st place, UD Discrete Structures tournament.
+Collaborative research project simulating gas particle collisions to accurately model temperature variations in accretion discs within binary star systems. Tests multiple simulation methods for heat-map generation.
 
-[You can find the repository here.](https://github.com/RebeccaFritz/Connect-Five).
+[View repository →](https://github.com/RebeccaFritz/Accretion-Disc-Heat-Map)
 
-### Castle Crawl
+---
 
-This game is a top down dungeon crawler in which the player must find keys and match them to the correct doors in order to escape. 
+### Connect Five 
+`Java` `Algorithms`
 
-It was coded entirely in Racket. 
+Java algorithm for the board game Connect Five featuring priority-based move selection for two game modes: first to five and most sets of five. 
 
-[You can find the repository here.](https://github.com/RebeccaFritz/Castle-Crawl)
-
-
-
-<!--
-**RebeccaFritz/RebeccaFritz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[View repository →](https://github.com/RebeccaFritz/Connect-Five)
